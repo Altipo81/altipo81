@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+ <title>Derivado de "Proyecto: blog"</title>
+       <style>
+           body {
+                background-color: rgb(199, 176, 131);
+                color:white;
+            }
+           h2 {
+            color: rgb(0, 130, 230);
+        }  
+            }
+            body {
+            font-size: 16px;
+        }
+        h2 {
+            color: rgb(18, 230, 202);
+            font-size: 1.5em;
+        }  
+body {
+            color: rgb(68, 59, 71);
+            font-family: "Helvetica", sans-serif;
+        }
+        h6 {
+            color: rgb(25, 18, 230);
+        }      
+       </style>
+     
+    </head>
+    <body>
+         <p class="titulo">
+    El blog del bicho
+    </p>
+
+        <h3>contenidos</h3>
+        <ul>
+            <li><a href="#partido"> Antes de un partido</a></li>
+            <li><a href="#partido2">Partido</a></li>
+            <li><a href="#partido3">despues del partido</a></li>
+        </ul>
+        
+        <h2>Antes de un partido</h2>
+        <h6>26/05/2018</h6>
+        
+        <p>Antes de un partido me gusta haber dormido 10 horas, el cuerpo debe estar preparado para ganar,SIUUUUUUUUUUUUU.Al despertarme lo primero que hago es darme una ducha fría para activar el cuerpo y comer una pieza de fruta,ALWAYS HEALTHY
+        </p>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bananas.jpg/250px-Bananas.jpg" width="200">
+         <h2>Partido</h2>
+         <h6>26/05/2018</h6>
+         Hoy es partido importante para el equipo, y seguro ganamos
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ronaldo_in_2018.jpg/220px-Ronaldo_in_2018.jpg" width="200" >
+         <h2>Despues del partido</h2>
+         <h6>26/05/2022</h6>
+         Hemos ganado SIUUUUUUUUUU, si es que soy el mejor,5ta Champions, un trofeo más para la vitrina. Ha sido bonito estar en el Real Madrid, ya hablaremos luego de mi futuro en el club
+         
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/C._Ronaldo_-_Ballon_d%27Or_2014.jpg/220px-C._Ronaldo_-_Ballon_d%27Or_2014.jpg"width="200">
+         
+         
+        
+        
+    </body>
+</html>
